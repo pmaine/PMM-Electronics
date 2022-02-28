@@ -3,7 +3,8 @@
 We plan to create a weather station to report to the ham radio aprs system. 
 This is for notes about the system.
 
----------------------------------------------------------
+
+
 Info for weather data string needed in direwolf:
   Example string:  272/000g006t069r010p030P020h61b10150
 This represents:
@@ -17,4 +18,4 @@ This represents:
   P020 = 0.20 = Rain since midnight in hundredts of an inch
   h61  = 61% = Humidity in percent
   b10150 = 1015.5 mbar = barometric pressure in tenths of a millibar
------------------------------------------------------------
+
